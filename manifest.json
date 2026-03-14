@@ -99,7 +99,7 @@
       "title": "Tafsir Ibn Kathir",
       "format": "ayah_json",
       "source": "github",
-      "path": "tafsirs/en/en-tafisr-ibn-kathir.json"
+      "path": "tafsirs/en/en-tafsir-ibn-kathir.json"
     },
     {
       "id": "tafsir_ar_saadi",
