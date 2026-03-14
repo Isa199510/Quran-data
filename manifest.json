@@ -1,1 +1,55 @@
+{
+  "version": 1,
 
+  "translations": [
+    {
+      "id": "ru_kuliev",
+      "title": "Кулиев",
+      "language": "ru",
+      "path": "translations/ru/ru-kuliev-simple.json"
+    },
+    {
+      "id": "ru_nuri",
+      "title": "Нури",
+      "language": "ru",
+      "path": "translations/ru/ru-nuri-simple.json"
+    },
+    {
+      "id": "ru_abu_adel",
+      "title": "Абу Адель",
+      "language": "ru",
+      "path": "translations/ru/ru-abu-adel-simple.json"
+    },
+    {
+      "id": "ru_awqaf",
+      "title": "Ministry of Awqaf",
+      "language": "ru",
+      "path": "translations/ru/ru-ministry-of-awqaf-simple.json"
+    },
+    {
+      "id": "ru_gordy",
+      "title": "Gordy",
+      "language": "ru",
+      "path": "translations/ru/ru-gordy-simple.json"
+    },
+
+    {
+      "id": "en_sahih",
+      "title": "Saheeh International",
+      "language": "en",
+      "path": "translations/en/en-sahih-international-simple.json"
+    },
+    {
+      "id": "en_muhsin_khan",
+      "title": "Muhsin Khan",
+      "language": "en",
+      "path": "translations/en/en-muhsin-khan-simple.json"
+    },
+    {
+      "id": "en_yusuf_ali",
+      "title": "Yusuf Ali",
+      "language": "en",
+      "path": "translations/en/en-yusufali-simple.json"
+    }
+  ]
+}
