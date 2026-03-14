@@ -78,10 +78,10 @@
       "id": "tafsir_ru_saadi",
       "type": "tafsir",
       "language": "ru",
-      "title": "Тафсир ас-Са'ди",
+      "title": "Тафсир ас-Саади",
       "format": "ayah_json",
       "source": "github",
-      "path": "tafsirs/ru/ru-tafsir-saadi.json"
+      "path": "tafsirs/ru/ru-tafseer-al-saddi"
     },
     {
       "id": "tafsir_ru_ibn_kathir",
@@ -90,16 +90,7 @@
       "title": "Тафсир Ибн Касира",
       "format": "ayah_json",
       "source": "github",
-      "path": "tafsirs/ru/ru-tafsir-ibn-kathir.json"
-    },
-    {
-      "id": "tafsir_en_saadi",
-      "type": "tafsir",
-      "language": "en",
-      "title": "Tafsir As-Saadi",
-      "format": "ayah_json",
-      "source": "github",
-      "path": "tafsirs/en/en-tafsir-saadi.json"
+      "path": "tafsirs/ru/ru-tafsir-ibn-kathir"
     },
     {
       "id": "tafsir_en_ibn_kathir",
@@ -108,16 +99,25 @@
       "title": "Tafsir Ibn Kathir",
       "format": "ayah_json",
       "source": "github",
-      "path": "tafsirs/en/en-tafsir-ibn-kathir.json"
+      "path": "tafsirs/en/en-tafisr-ibn-kathir.json"
     },
     {
-      "id": "tafsir_ar_muyassar",
+      "id": "tafsir_ar_saadi",
       "type": "tafsir",
       "language": "ar",
-      "title": "التفسير الميسر",
+      "title": "تفسير السعدي",
       "format": "ayah_json",
       "source": "github",
-      "path": "tafsirs/ar/ar-tafsir-al-muyassar.json"
+      "path": "tafsirs/ar/ar-tafsir-as-saadi.json"
+    },
+    {
+      "id": "tafsir_ar_ibn_kathir",
+      "type": "tafsir",
+      "language": "ar",
+      "title": "تفسير ابن كثير",
+      "format": "ayah_json",
+      "source": "github",
+      "path": "tafsirs/ar/ar-tafsir-ibn-kathir.json"
     }
   ]
 }
