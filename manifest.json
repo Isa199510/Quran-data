@@ -7,117 +7,99 @@
       "type": "translation",
       "language": "ru",
       "title": "Кулиев",
-      "format": "simple_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "translations/ru/ru-kuliyev-simple.json"
-    },
-    {
-      "id": "translation_ru_nuri",
-      "type": "translation",
-      "language": "ru",
-      "title": "Нури",
-      "format": "simple_json",
-      "source": "github",
-      "path": "translations/ru/ru-nuri-simple.json"
+      "path": "translations/ru/ru-kuliev-simple.db"
     },
     {
       "id": "translation_ru_abu_adel",
       "type": "translation",
       "language": "ru",
       "title": "Абу Адель",
-      "format": "simple_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "translations/ru/ru-abu-adel-simple.json"
-    },
-    {
-      "id": "translation_ru_awqaf",
-      "type": "translation",
-      "language": "ru",
-      "title": "Ministry of Awqaf",
-      "format": "simple_json",
-      "source": "github",
-      "path": "translations/ru/ru-ministry-of-awqaf-simple.json"
-    },
-    {
-      "id": "translation_ru_gordy",
-      "type": "translation",
-      "language": "ru",
-      "title": "Gordy",
-      "format": "simple_json",
-      "source": "github",
-      "path": "translations/ru/ru-gordy-simple.json"
+      "path": "translations/ru/ru-abu-adel-simple.db"
     },
     {
       "id": "translation_en_sahih",
       "type": "translation",
       "language": "en",
       "title": "Saheeh International",
-      "format": "simple_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "translations/en/en-sahih-international-simple.json"
+      "path": "translations/en/en-sahih-international-simple.db"
     },
     {
       "id": "translation_en_muhsin_khan",
       "type": "translation",
       "language": "en",
       "title": "Muhsin Khan",
-      "format": "simple_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "translations/en/en-muhsin-khan-simple.json"
+      "path": "translations/en/en-muhsin-khan-simple.db"
     },
     {
       "id": "translation_en_yusuf_ali",
       "type": "translation",
       "language": "en",
       "title": "Yusuf Ali",
-      "format": "simple_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "translations/en/en-yusufali-simple.json"
+      "path": "translations/en/en-yusufali-simple.db"
+    },
+    {
+      "id": "translation_id_word_by_word",
+      "type": "translation",
+      "language": "id",
+      "title": "Kata per Kata",
+      "format": "sqlite",
+      "source": "github",
+      "path": "translations/id/id-word-by-word-translation.db"
     },
     {
       "id": "tafsir_ru_saadi",
       "type": "tafsir",
       "language": "ru",
       "title": "Тафсир ас-Саади",
-      "format": "ayah_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/ru/ru-tafseer-al-saddi"
+      "path": "tafsirs/ru/ru-tafsir-as-saadi.db"
     },
     {
       "id": "tafsir_ru_ibn_kathir",
       "type": "tafsir",
       "language": "ru",
       "title": "Тафсир Ибн Касира",
-      "format": "ayah_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/ru/ru-tafsir-ibn-kathir"
+      "path": "tafsirs/ru/ru-tafsir-ibne-kahtir.db"
     },
     {
       "id": "tafsir_en_ibn_kathir",
       "type": "tafsir",
       "language": "en",
       "title": "Tafsir Ibn Kathir",
-      "format": "ayah_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/en/en-tafsir-ibn-kathir.json"
+      "path": "tafsirs/en/en-tafisr-ibn-kathir.db"
     },
     {
       "id": "tafsir_ar_saadi",
       "type": "tafsir",
       "language": "ar",
       "title": "تفسير السعدي",
-      "format": "ayah_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/ar/ar-tafsir-as-saadi.json"
+      "path": "tafsirs/ar/ar-tafsir-as-saadi.db"
     },
     {
       "id": "tafsir_ar_ibn_kathir",
       "type": "tafsir",
       "language": "ar",
       "title": "تفسير ابن كثير",
-      "format": "ayah_json",
+      "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/ar/ar-tafsir-ibn-kathir.json"
+      "path": "tafsirs/ar/ar-tafsir-ibn-kathir.db"
     }
   ]
 }
