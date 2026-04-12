@@ -63,7 +63,8 @@
       "title": "Тафсир ас-Саади",
       "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/ru/ru-tafsir-as-saadi.db"
+      "path": "tafsirs/ru/ru-tafsir-as-saadi.db",
+      "download_url": "https://github.com/Isa199510/Quran-data/releases/download/modules-v1/ru-tafsir-as-saadi.db"
     },
     {
       "id": "tafsir_ru_ibn_kathir",
@@ -72,7 +73,8 @@
       "title": "Тафсир Ибн Касира",
       "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/ru/ru-tafsir-ibne-kahtir.db"
+      "path": "tafsirs/ru/ru-tafsir-ibne-kahtir.db",
+      "download_url": "https://github.com/Isa199510/Quran-data/releases/download/modules-v1/ru-tafsir-ibne-kahtir.db"
     },
     {
       "id": "tafsir_en_ibn_kathir",
@@ -81,7 +83,8 @@
       "title": "Tafsir Ibn Kathir",
       "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/en/en-tafisr-ibn-kathir.db"
+      "path": "tafsirs/en/en-tafisr-ibn-kathir.db",
+      "download_url": "https://github.com/Isa199510/Quran-data/releases/download/modules-v1/en-tafisr-ibn-kathir.db"
     },
     {
       "id": "tafsir_ar_saadi",
@@ -90,7 +93,8 @@
       "title": "تفسير السعدي",
       "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/ar/ar-tafsir-as-saadi.db"
+      "path": "tafsirs/ar/ar-tafsir-as-saadi.db",
+      "download_url": "https://github.com/Isa199510/Quran-data/releases/download/modules-v1/ar-tafsir-as-saadi.db"
     },
     {
       "id": "tafsir_ar_ibn_kathir",
@@ -99,7 +103,8 @@
       "title": "تفسير ابن كثير",
       "format": "sqlite",
       "source": "github",
-      "path": "tafsirs/ar/ar-tafsir-ibn-kathir.db"
+      "path": "tafsirs/ar/ar-tafsir-ibn-kathir.db",
+      "download_url": "https://github.com/Isa199510/Quran-data/releases/download/modules-v1/ar-tafsir-ibn-kathir.db"
     }
   ]
 }
