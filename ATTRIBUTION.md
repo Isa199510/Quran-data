@@ -1,0 +1,225 @@
+# Sources and attribution
+
+QuranApp preserves the authorship and source of each dataset. Source attribution is not a grant of permission.
+Collection: Hablullah/data-quran — https://github.com/hablullah/data-quran
+Collection license: CC-BY-NC-ND-4.0
+
+Tanzil Quran text: https://tanzil.net/docs/text_license
+Tanzil translations and terms: https://tanzil.net/trans/
+Redistribution permission for the Tanzil list is being requested separately.
+
+Original source files and notices remain in sources/data-quran-master/.
+
+## Modules
+
+- translation_ru_kuliyev: Кулиев. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- translation_ru_abu_adel: Абу Адель. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- translation_en_sahih: Saheeh International. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- translation_en_muhsin_khan: Muhsin Khan. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- translation_en_yusuf_ali: Yusuf Ali. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- translation_id_word_by_word: Kata per Kata. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- tafsir_ru_saadi: Тафсир ас-Саади. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- tafsir_ru_ibn_kathir: Тафсир Ибн Касира. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- tafsir_en_ibn_kathir: Tafsir Ibn Kathir. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- tafsir_ar_saadi: تفسير السعدي. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- tafsir_ar_ibn_kathir: تفسير ابن كثير. Author: see original source; not specified in header. Source: existing project module; original provenance unchanged.
+- translation_aa_hamza_quranenc: afar_hamza · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/afar_hamza.
+- translation_am_sadiq_quranenc: amharic_sadiq · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/amharic_sadiq.
+- translation_am_sadiq_tanzil: ሳዲቅ & ሳኒ ሐቢብ · Tanzil. Author: Muhammed Sadiq and Muhammed Sani Habib. Source: https://tanzil.net/trans/.
+- translation_as_rafeeq_quranenc: assamese_rafeeq · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/assamese_rafeeq.
+- translation_az_mammadaliyev_tanzil: Məmmədəliyev & Bünyadov · Tanzil. Author: Vasim Mammadaliyev and Ziya Bunyadov. Source: https://tanzil.net/trans/.
+- translation_az_musayev_tanzil: Musayev · Tanzil. Author: Alikhan Musayev. Source: https://tanzil.net/trans/.
+- translation_ber_mensur_tanzil: At Mensur · Tanzil. Author: Ramdane At Mansour. Source: https://tanzil.net/trans/.
+- translation_bg_theophanov_tanzil: Теофанов · Tanzil. Author: Tzvetan Theophanov. Source: https://tanzil.net/trans/.
+- translation_bm_dayyan_quranenc: ankobambara_dayyan · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/ankobambara_dayyan.
+- translation_bn_bengali_tanzil: মুহিউদ্দীন খান · Tanzil. Author: Muhiuddin Khan. Source: https://tanzil.net/trans/.
+- translation_bn_hoque_tanzil: জহুরুল হক · Tanzil. Author: Zohurul Hoque. Source: https://tanzil.net/trans/.
+- translation_bs_korkut_tanzil: Korkut · Tanzil. Author: Besim Korkut. Source: https://tanzil.net/trans/.
+- translation_bs_mihanovich_quranenc: bosnian_mihanovich · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/bosnian_mihanovich.
+- translation_bs_mlivo_tanzil: Mlivo · Tanzil. Author: Mustafa Mlivo. Source: https://tanzil.net/trans/.
+- translation_bs_rwwad_quranenc: bosnian_rwwad · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/bosnian_rwwad.
+- translation_cs_hrbek_tanzil: Hrbek · Tanzil. Author: Preklad I. Hrbek. Source: https://tanzil.net/trans/.
+- translation_cs_nykl_tanzil: Nykl · Tanzil. Author: A. R. Nykl. Source: https://tanzil.net/trans/.
+- translation_de_aburida_tanzil: Abu Rida · Tanzil. Author: Abu Rida Muhammad ibn Ahmad ibn Rassoul. Source: https://tanzil.net/trans/.
+- translation_de_bubenheim_quranenc: german_bubenheim · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/german_bubenheim.
+- translation_de_bubenheim_tanzil: Bubenheim & Elyas · Tanzil. Author: A. S. F. Bubenheim and N. Elyas. Source: https://tanzil.net/trans/.
+- translation_de_khoury_tanzil: Khoury · Tanzil. Author: Adel Theodor Khoury. Source: https://tanzil.net/trans/.
+- translation_de_zaidan_tanzil: Zaidan · Tanzil. Author: Amir Zaidan. Source: https://tanzil.net/trans/.
+- translation_dv_divehi_tanzil: ދިވެހި · Tanzil. Author: Office of the President of Maldives. Source: https://tanzil.net/trans/.
+- translation_en_ahmedali_tanzil: Ahmed Ali · Tanzil. Author: Ahmed Ali. Source: https://tanzil.net/trans/.
+- translation_en_ahmedraza_tanzil: Ahmed Raza Khan · Tanzil. Author: Ahmed Raza Khan. Source: https://tanzil.net/trans/.
+- translation_en_arberry_tanzil: Arberry · Tanzil. Author: A. J. Arberry. Source: https://tanzil.net/trans/.
+- translation_en_daryabadi_tanzil: Daryabadi · Tanzil. Author: Abdul Majid Daryabadi. Source: https://tanzil.net/trans/.
+- translation_en_hilali_khan_quranenc: english_hilali_khan · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/english_hilali_khan.
+- translation_en_hilali_tanzil: Hilali & Khan · Tanzil. Author: Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan. Source: https://tanzil.net/trans/.
+- translation_en_itani_tanzil: Itani · Tanzil. Author: Talal Itani. Source: https://tanzil.net/trans/.
+- translation_en_maududi_tanzil: Maududi · Tanzil. Author: Abul Ala Maududi. Source: https://tanzil.net/trans/.
+- translation_en_mubarakpuri_tanzil: Mubarakpuri · Tanzil. Author: Safi-ur-Rahman al-Mubarakpuri. Source: https://tanzil.net/trans/.
+- translation_en_pickthall_tanzil: Pickthall · Tanzil. Author: Mohammed Marmaduke William Pickthall. Source: https://tanzil.net/trans/.
+- translation_en_qarai_tanzil: Qarai · Tanzil. Author: Ali Quli Qarai. Source: https://tanzil.net/trans/.
+- translation_en_qaribullah_tanzil: Qaribullah & Darwish · Tanzil. Author: Hasan al-Fatih Qaribullah and Ahmad Darwish. Source: https://tanzil.net/trans/.
+- translation_en_rwwad_quranenc: english_rwwad · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/english_rwwad.
+- translation_en_saheeh_quranenc: english_saheeh · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/english_saheeh.
+- translation_en_sahih_tanzil: Saheeh International · Tanzil. Author: Saheeh International. Source: https://tanzil.net/trans/.
+- translation_en_sarwar_tanzil: Sarwar · Tanzil. Author: Muhammad Sarwar. Source: https://tanzil.net/trans/.
+- translation_en_shakir_tanzil: Shakir · Tanzil. Author: Mohammad Habib Shakir. Source: https://tanzil.net/trans/.
+- translation_en_wahiduddin_tanzil: Wahiduddin Khan · Tanzil. Author: Wahiduddin Khan. Source: https://tanzil.net/trans/.
+- translation_en_yusufali_tanzil: Yusuf Ali · Tanzil. Author: Abdullah Yusuf Ali. Source: https://tanzil.net/trans/.
+- translation_es_bornez_tanzil: Bornez · Tanzil. Author: Raúl González Bórnez. Source: https://tanzil.net/trans/.
+- translation_es_cortes_tanzil: Cortes · Tanzil. Author: Julio Cortes. Source: https://tanzil.net/trans/.
+- translation_es_garcia_quranenc: spanish_garcia · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/spanish_garcia.
+- translation_es_garcia_tanzil: Garcia · Tanzil. Author: Muhammad Isa García. Source: https://tanzil.net/trans/.
+- translation_es_montada_eu_quranenc: spanish_montada_eu · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/spanish_montada_eu.
+- translation_es_montada_latin_quranenc: spanish_montada_latin · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/spanish_montada_latin.
+- translation_fa_ansarian_tanzil: انصاریان · Tanzil. Author: Hussain Ansarian. Source: https://tanzil.net/trans/.
+- translation_fa_ayati_tanzil: آیتی · Tanzil. Author: AbdolMohammad Ayati. Source: https://tanzil.net/trans/.
+- translation_fa_bahrampour_tanzil: بهرام‌پور · Tanzil. Author: Abolfazl Bahrampour. Source: https://tanzil.net/trans/.
+- translation_fa_fooladvand_tanzil: فولادوند · Tanzil. Author: Mohammad Mahdi Fooladvand. Source: https://tanzil.net/trans/.
+- translation_fa_gharaati_tanzil: قرائتی · Tanzil. Author: Mohsen Gharaati. Source: https://tanzil.net/trans/.
+- translation_fa_ghomshei_tanzil: الهی قمشه‌ای · Tanzil. Author: Mahdi Elahi Ghomshei. Source: https://tanzil.net/trans/.
+- translation_fa_ih_quranenc: persian_ih · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/persian_ih.
+- translation_fa_khorramshahi_tanzil: خرمشاهی · Tanzil. Author: Baha'oddin Khorramshahi. Source: https://tanzil.net/trans/.
+- translation_fa_makarem_tanzil: مکارم شیرازی · Tanzil. Author: Naser Makarem Shirazi. Source: https://tanzil.net/trans/.
+- translation_fa_moezzi_tanzil: معزی · Tanzil. Author: Mohammad Kazem Moezzi. Source: https://tanzil.net/trans/.
+- translation_fa_mojtabavi_tanzil: مجتبوی · Tanzil. Author: Sayyed Jalaloddin Mojtabavi. Source: https://tanzil.net/trans/.
+- translation_fa_sadeqi_tanzil: صادقی تهرانی · Tanzil. Author: Mohammad Sadeqi Tehrani. Source: https://tanzil.net/trans/.
+- translation_fa_safavi_tanzil: صفوی · Tanzil. Author: Sayyed Mohammad Reza Safavi. Source: https://tanzil.net/trans/.
+- translation_fr_hameedullah_quranenc: french_hameedullah · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/french_hameedullah.
+- translation_fr_hamidullah_tanzil: Hamidullah · Tanzil. Author: Muhammad Hamidullah. Source: https://tanzil.net/trans/.
+- translation_fr_montada_quranenc: french_montada · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/french_montada.
+- translation_fr_rashid_quranenc: french_rashid · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/french_rashid.
+- translation_gu_omari_quranenc: gujarati_omari · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/gujarati_omari.
+- translation_ha_gumi_tanzil: Gumi · Tanzil. Author: Abubakar Mahmoud Gumi. Source: https://tanzil.net/trans/.
+- translation_ha_gummi_quranenc: hausa_gummi · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/hausa_gummi.
+- translation_hi_farooq_tanzil: फ़ारूक़ ख़ान & अहमद · Tanzil. Author: Muhammad Farooq Khan and Muhammad Ahmed. Source: https://tanzil.net/trans/.
+- translation_hi_hindi_tanzil: फ़ारूक़ ख़ान & नदवी · Tanzil. Author: Suhel Farooq Khan and Saifur Rahman Nadwi. Source: https://tanzil.net/trans/.
+- translation_hi_omari_quranenc: hindi_omari · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/hindi_omari.
+- translation_id_affairs_quranenc: indonesian_affairs · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/indonesian_affairs.
+- translation_id_complex_quranenc: indonesian_complex · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/indonesian_complex.
+- translation_id_indonesian_tanzil: Bahasa Indonesia · Tanzil. Author: Indonesian Ministry of Religious Affairs. Source: https://tanzil.net/trans/.
+- translation_id_kemenag: id-kemenag · Kemenag (as named in archive). Author: see original source; not specified in header. Source: Kemenag (as named in archive).
+- translation_id_sabiq_quranenc: indonesian_sabiq · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/indonesian_sabiq.
+- translation_it_piccardo_tanzil: Piccardo · Tanzil. Author: Hamza Roberto Piccardo. Source: https://tanzil.net/trans/.
+- translation_ja_japanese_tanzil: Japanese · Tanzil. Author: Unknown. Source: https://tanzil.net/trans/.
+- translation_ja_saeedsato_quranenc: japanese_saeedsato · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/japanese_saeedsato.
+- translation_km_cambodia_quranenc: khmer_cambodia · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/khmer_cambodia.
+- translation_ko_korean_tanzil: Korean · Tanzil. Author: Unknown. Source: https://tanzil.net/trans/.
+- translation_ku_asan_tanzil: ته‌فسیری ئاسان · Tanzil. Author: Burhan Muhammad-Amin. Source: https://tanzil.net/trans/.
+- translation_ku_bamoki_quranenc: kurdish_bamoki · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/kurdish_bamoki.
+- translation_ln_zakaria_quranenc: lingala_zakaria · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/lingala_zakaria.
+- translation_ml_abdulhameed_tanzil: അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍ · Tanzil. Author: Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor. Source: https://tanzil.net/trans/.
+- translation_ml_karakunnu_tanzil: കാരകുന്ന് & എളയാവൂര് · Tanzil. Author: Muhammad Karakunnu and Vanidas Elayavoor. Source: https://tanzil.net/trans/.
+- translation_ml_kunhi_quranenc: malayalam_kunhi · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/malayalam_kunhi.
+- translation_ms_basmeih_tanzil: Basmeih · Tanzil. Author: Abdullah Muhammad Basmeih. Source: https://tanzil.net/trans/.
+- translation_nl_keyzer_tanzil: Keyzer · Tanzil. Author: Salomo Keyzer. Source: https://tanzil.net/trans/.
+- translation_nl_leemhuis_tanzil: Leemhuis · Tanzil. Author: Fred Leemhuis. Source: https://tanzil.net/trans/.
+- translation_nl_siregar_tanzil: Siregar · Tanzil. Author: Sofian S. Siregar. Source: https://tanzil.net/trans/.
+- translation_no_berg_tanzil: Einar Berg · Tanzil. Author: Einar Berg. Source: https://tanzil.net/trans/.
+- translation_om_ababor_quranenc: oromo_ababor · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/oromo_ababor.
+- translation_pl_bielawskiego_tanzil: Bielawskiego · Tanzil. Author: Józefa Bielawskiego. Source: https://tanzil.net/trans/.
+- translation_ps_abdulwali_tanzil: عبدالولي · Tanzil. Author: Abdulwali Khan. Source: https://tanzil.net/trans/.
+- translation_pt_elhayek_tanzil: El-Hayek · Tanzil. Author: Samir El-Hayek. Source: https://tanzil.net/trans/.
+- translation_pt_nasr_quranenc: portuguese_nasr · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/portuguese_nasr.
+- translation_ro_grigore_tanzil: Grigore · Tanzil. Author: George Grigore. Source: https://tanzil.net/trans/.
+- translation_ru_abuadel_tanzil: Абу Адель · Tanzil. Author: Abu Adel. Source: https://tanzil.net/trans/.
+- translation_ru_krachkovsky_tanzil: Крачковский · Tanzil. Author: Ignaty Yulianovich Krachkovsky. Source: https://tanzil.net/trans/.
+- translation_ru_kuliev_tanzil: Кулиев · Tanzil. Author: Elmir Kuliev. Source: https://tanzil.net/trans/.
+- translation_ru_osmanov_tanzil: Османов · Tanzil. Author: Magomed-Nuri Osmanovich Osmanov. Source: https://tanzil.net/trans/.
+- translation_ru_porokhova_tanzil: Порохова · Tanzil. Author: V. Porokhova. Source: https://tanzil.net/trans/.
+- translation_ru_sablukov_tanzil: Саблуков · Tanzil. Author: Gordy Semyonovich Sablukov. Source: https://tanzil.net/trans/.
+- translation_rw_assoc_quranenc: kinyarwanda_assoc · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/kinyarwanda_assoc.
+- translation_sd_amroti_tanzil: امروٽي · Tanzil. Author: Taj Mehmood Amroti. Source: https://tanzil.net/trans/.
+- translation_si_mahir_quranenc: sinhalese_mahir · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/sinhalese_mahir.
+- translation_so_abduh_tanzil: Abduh · Tanzil. Author: Mahmud Muhammad Abduh. Source: https://tanzil.net/trans/.
+- translation_so_yacob_quranenc: somali_yacob · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/somali_yacob.
+- translation_sq_ahmeti_tanzil: Sherif Ahmeti · Tanzil. Author: Sherif Ahmeti. Source: https://tanzil.net/trans/.
+- translation_sq_mehdiu_tanzil: Feti Mehdiu · Tanzil. Author: Feti Mehdiu. Source: https://tanzil.net/trans/.
+- translation_sq_nahi_quranenc: albanian_nahi · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/albanian_nahi.
+- translation_sq_nahi_tanzil: Efendi Nahi · Tanzil. Author: Hasan Efendi Nahi. Source: https://tanzil.net/trans/.
+- translation_sr_rwwad_quranenc: serbian_rwwad · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/serbian_rwwad.
+- translation_sv_bernstrom_tanzil: Bernström · Tanzil. Author: Knut Bernström. Source: https://tanzil.net/trans/.
+- translation_sw_barawani_quranenc: swahili_barawani · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/swahili_barawani.
+- translation_sw_barwani_tanzil: Al-Barwani · Tanzil. Author: Ali Muhsin Al-Barwani. Source: https://tanzil.net/trans/.
+- translation_ta_baqavi_quranenc: tamil_baqavi · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/tamil_baqavi.
+- translation_ta_omar_quranenc: tamil_omar · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/tamil_omar.
+- translation_ta_tamil_tanzil: ஜான் டிரஸ்ட் · Tanzil. Author: Jan Turst Foundation. Source: https://tanzil.net/trans/.
+- translation_tg_arifi_quranenc: tajik_arifi · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/tajik_arifi.
+- translation_tg_ayati_tanzil: Оятӣ · Tanzil. Author: AbdolMohammad Ayati. Source: https://tanzil.net/trans/.
+- translation_th_thai_tanzil: ภาษาไทย · Tanzil. Author: King Fahad Quran Complex. Source: https://tanzil.net/trans/.
+- translation_tl_rwwad_quranenc: tagalog_rwwad · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/tagalog_rwwad.
+- translation_tr_ates_tanzil: Süleyman Ateş · Tanzil. Author: Suleyman Ates. Source: https://tanzil.net/trans/.
+- translation_tr_bulac_tanzil: Alİ Bulaç · Tanzil. Author: Alİ Bulaç. Source: https://tanzil.net/trans/.
+- translation_tr_golpinarli_tanzil: Abdulbakî Gölpınarlı · Tanzil. Author: Abdulbaki Golpinarli. Source: https://tanzil.net/trans/.
+- translation_tr_ozturk_tanzil: Öztürk · Tanzil. Author: Yasar Nuri Ozturk. Source: https://tanzil.net/trans/.
+- translation_tr_rwwad_quranenc: turkish_rwwad · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/turkish_rwwad.
+- translation_tr_shaban_quranenc: turkish_shaban · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/turkish_shaban.
+- translation_tr_shahin_quranenc: turkish_shahin · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/turkish_shahin.
+- translation_tr_vakfi_tanzil: Diyanet Vakfı · Tanzil. Author: Diyanet Vakfi. Source: https://tanzil.net/trans/.
+- translation_tr_yazir_tanzil: Elmalılı Hamdi Yazır · Tanzil. Author: Elmalili Hamdi Yazir. Source: https://tanzil.net/trans/.
+- translation_tr_yildirim_tanzil: Suat Yıldırım · Tanzil. Author: Suat Yildirim. Source: https://tanzil.net/trans/.
+- translation_tr_yuksel_tanzil: Edip Yüksel · Tanzil. Author: Edip Yüksel. Source: https://tanzil.net/trans/.
+- translation_tt_nugman_tanzil: Yakub Ibn Nugman · Tanzil. Author: Yakub Ibn Nugman. Source: https://tanzil.net/trans/.
+- translation_ug_saleh_quranenc: uyghur_saleh · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/uyghur_saleh.
+- translation_ug_saleh_tanzil: محمد صالح · Tanzil. Author: Muhammad Saleh. Source: https://tanzil.net/trans/.
+- translation_ur_ahmedali_tanzil: احمد علی · Tanzil. Author: Ahmed Ali. Source: https://tanzil.net/trans/.
+- translation_ur_jalandhry_tanzil: جالندہری · Tanzil. Author: Fateh Muhammad Jalandhry. Source: https://tanzil.net/trans/.
+- translation_ur_jawadi_tanzil: علامہ جوادی · Tanzil. Author: Syed Zeeshan Haider Jawadi. Source: https://tanzil.net/trans/.
+- translation_ur_junagarhi_quranenc: urdu_junagarhi · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/urdu_junagarhi.
+- translation_ur_junagarhi_tanzil: محمد جوناگڑھی · Tanzil. Author: Muhammad Junagarhi. Source: https://tanzil.net/trans/.
+- translation_ur_kanzuliman_tanzil: احمد رضا خان · Tanzil. Author: Ahmed Raza Khan. Source: https://tanzil.net/trans/.
+- translation_ur_maududi_tanzil: ابوالاعلی مودودی · Tanzil. Author: Abul A'ala Maududi. Source: https://tanzil.net/trans/.
+- translation_ur_najafi_tanzil: محمد حسین نجفی · Tanzil. Author: Muhammad Hussain Najafi. Source: https://tanzil.net/trans/.
+- translation_ur_qadri_tanzil: طاہر القادری · Tanzil. Author: Tahir ul Qadri. Source: https://tanzil.net/trans/.
+- translation_uz_mansour_quranenc: uzbek_mansour · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/uzbek_mansour.
+- translation_vi_rwwad_quranenc: vietnamese_rwwad · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/vietnamese_rwwad.
+- translation_yo_mikail_quranenc: yoruba_mikail · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/yoruba_mikail.
+- translation_zh_jian_tanzil: Ma Jian · Tanzil. Author: Ma Jian. Source: https://tanzil.net/trans/.
+- translation_zh_majian_tanzil: Ma Jian (Traditional) · Tanzil. Author: Ma Jian. Source: https://tanzil.net/trans/.
+- translation_zh_makin_quranenc: chinese_makin · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/chinese_makin.
+- translation_zh_suliman_quranenc: chinese_suliman · QuranEnc. Author: see original source; not specified in header. Source: https://quranenc.com/en/browse/chinese_suliman.
+- tafsir_ar_jalalayn_tanzil: تفسير الجلالين · Tanzil. Author: Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti. Source: https://tanzil.net/trans/.
+- tafsir_ar_mokhtasar_islamhouse: ar-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_ar_muyassar_tanzil: تفسير المیسر · Tanzil. Author: King Fahad Quran Complex. Source: https://tanzil.net/trans/.
+- tafsir_as_mokhtasar_islamhouse: as-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_bn_mokhtasar_islamhouse: bn-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_bs_mokhtasar_islamhouse: bs-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_es_mokhtasar_islamhouse: es-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_fa_khorramdel_tanzil: خرمدل · Tanzil. Author: Mostafa Khorramdel. Source: https://tanzil.net/trans/.
+- tafsir_fa_mokhtasar_islamhouse: fa-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_fr_mokhtasar_islamhouse: fr-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_id_jalalayn_tanzil: Tafsir Jalalayn · Tanzil. Author: Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti. Source: https://tanzil.net/trans/.
+- tafsir_id_mokhtasar_islamhouse: id-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_id_muntakhab_tanzil: Quraish Shihab · Tanzil. Author: Muhammad Quraish Shihab et al.. Source: https://tanzil.net/trans/.
+- tafsir_id_ringkas_kemenag: id-ringkas-kemenag · Kemenag (as named in archive). Author: see original source; not specified in header. Source: Kemenag (as named in archive).
+- tafsir_it_mokhtasar_islamhouse: it-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_ja_mokhtasar_islamhouse: ja-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_km_mokhtasar_islamhouse: km-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_ml_mokhtasar_islamhouse: ml-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_ru_kuliev_alsaadi_tanzil: Кулиев + ас-Саади · Tanzil. Author: Elmir Kuliev (with Abd ar-Rahman as-Saadi's commentaries). Source: https://tanzil.net/trans/.
+- tafsir_ru_muntahab_tanzil: Аль-Мунтахаб · Tanzil. Author: Ministry of Awqaf, Egypt. Source: https://tanzil.net/trans/.
+- tafsir_tl_mokhtasar_islamhouse: tl-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_tr_diyanet_tanzil: Diyanet İşleri · Tanzil. Author: Diyanet Isleri. Source: https://tanzil.net/trans/.
+- tafsir_tr_mokhtasar_islamhouse: tr-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_uz_sodik_tanzil: Мухаммад Содик · Tanzil. Author: Muhammad Sodik Muhammad Yusuf. Source: https://tanzil.net/trans/.
+- tafsir_vi_mokhtasar_islamhouse: vi-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- tafsir_zh_mokhtasar_islamhouse: zh-mokhtasar-islamhouse · IslamHouse. Author: see original source; not specified in header. Source: https://islamhouse.com.
+- bn-qurancom: bn — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- bn-quranwbw: bn — QuranWBW. Author: see original source; not specified in header. Source: https://quranwbw.com.
+- de-qurancom: de — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- de-quranwbw: de — QuranWBW. Author: see original source; not specified in header. Source: https://quranwbw.com.
+- en-qurancom: en — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- en-quranwbw: en — QuranWBW. Author: see original source; not specified in header. Source: https://quranwbw.com.
+- fa-qurancom: fa — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- hi-qurancom: hi — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- hi-quranwbw: hi — QuranWBW. Author: see original source; not specified in header. Source: https://quranwbw.com.
+- id-qurancom: id — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- id-quranwbw: id — QuranWBW. Author: see original source; not specified in header. Source: https://quranwbw.com.
+- inh-qurancom: inh — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- inh-quranwbw: inh — QuranWBW. Author: see original source; not specified in header. Source: https://quranwbw.com.
+- ru-qurancom: ru — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- ru-quranwbw: ru — QuranWBW. Author: see original source; not specified in header. Source: https://quranwbw.com.
+- ta-qurancom: ta — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- tr-qurancom: tr — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- tr-quranwbw: tr — QuranWBW. Author: see original source; not specified in header. Source: https://quranwbw.com.
+- ur-qurancom: ur — Quran.com. Author: see original source; not specified in header. Source: https://quran.com.
+- ur-quranwbw: ur — QuranWBW. Author: see original source; not specified in header. Source: https://quranwbw.com.

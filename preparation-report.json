@@ -1,0 +1,10 @@
+{
+  "modules": 211,
+  "types": {
+    "translation": 160,
+    "tafsir": 31,
+    "word_by_word": 20
+  },
+  "status": "valid",
+  "note": "Local content checks only; publication permissions and live download URLs are separate."
+}
